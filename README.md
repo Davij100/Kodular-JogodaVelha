@@ -1,2 +1,2 @@
 # Kodular-JogodaVelha
-App feito com Kodular, usando programação em blocos. Como o nome bem descreve, trata-se de um aplicativo completo de jogo da velha.
+App feito com Kodular, usando programação em blocos. Como o nome bem descreve, trata-se de um aplicativo completo de jogo da velha. No app existe dois jogadores, o jogador O e o jogador X. Como no jogo clássico, cada um tem o seu turno, e o turno é informado por uma mensagem na parte superior da tela. O jogador deve marcar os quadrados seguindo a ordem de turnos para que o jogo flua como o esperado.Ao vencer a rodada, uma mensagem surge na tela informando o player ganhador do game. Caso queira jogar várias vezes, vale ressaltar que o jogo sempre pode ser reiniciado apertando o botão de começar no topo da tela.
